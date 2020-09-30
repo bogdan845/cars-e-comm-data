@@ -1,35 +1,37 @@
 {
   "data" : [
-     "fields": {
-                "id": 1,
-                "mark": "Porsche",
-                "model": "911 GTR-3 RS",
-                "slug": "porsche-gt-3-rs",
-                "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
-                "country": "Germany",
-                "isAvailable": true,
-                "featured": true,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 188550,
-            },
+    {
+         "fields": {
+                    "id": 1,
+                    "mark": "Porsche",
+                    "model": "911 GTR-3 RS",
+                    "slug": "porsche-gt-3-rs",
+                    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+                    "country": "Germany",
+                    "isAvailable": true,
+                    "featured": true,
+                    "inCart": false,
+                    "amount": 0,
+                    "total": 0,
+                    "cost": 188550,
+                },
 
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "torque": "346 lb-ft",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
-            },
+                "techParams": {
+                    "engine": "4.0-liter Flat Six",
+                    "horsepower": "520 hp",
+                    "torque": "346 lb-ft",
+                    "acceleration": "3.2",
+                    "maxSpeed": "312 mph",
+                    "transmission": "7-Speed Dual Clutch"
+                },
 
-            "images": [
-                "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
-                "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg",
-                "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
-                "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
-            ]
+                "images": [
+                    "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
+                    "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg",
+                    "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
+                    "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
+                ]
+            }
         },
 
         {
