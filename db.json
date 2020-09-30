@@ -1,22 +1,11 @@
+
+
+
 {
-   "records": [
-      {
-         "name": "John",
-         "city": "Berlin",
-         "cars": [
-            "audi",
-            "bmw"
-         ],
-         "job": "Teacher"
-      },
-      {
-         "name": "Mark",
-         "city": "Oslo",
-         "cars": [
-            "VW",
-            "Toyata"
-         ],
-         "job": "Doctor"
-      }
+   "data": [
+      
+      {},
+      {},
+      {}
    ]
 }
