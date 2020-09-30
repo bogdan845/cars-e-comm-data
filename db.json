@@ -1,34 +1,34 @@
 {
-   "data": [
-      {
-         "fields": {
-             "id": 1,
-             "mark": "Porsche",
-             "model": "911 GTR-3 RS",
-             "slug": "porsche-gt-3-rs",
-             "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
-             "country": "Germany",
-             "isAvailable": true,
-             "featured": true,
-             "inCart": false,
-             "amount": 0,
-             "total": 0,
-             "cost": 188550
-         },
-         
-         "techParams": {
-             "engine": "4.0-liter Flat Six",
-             "horsepower": "520 hp",
-             "acceleration": "3.2",
-             "maxSpeed": "312 mph"
-         },
-         
-         "images": [
-             "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
-             "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg"
-         ]
-      },
-      {
+    "data": [
+        {
+            "fields": {
+                "id": 1,
+                "mark": "Porsche",
+                "model": "911 GTR-3 RS",
+                "slug": "porsche-gt-3-rs",
+                "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
+                "country": "Germany",
+                "isAvailable": true,
+                "featured": true,
+                "inCart": false,
+                "amount": 0,
+                "total": 0,
+                "cost": 188550
+            },
+
+            "techParams": {
+                "engine": "4.0-liter Flat Six",
+                "horsepower": "520 hp",
+                "acceleration": "3.2",
+                "maxSpeed": "312 mph"
+            },
+
+            "images": [
+                "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
+                "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg"
+            ]
+        },
+        {
             "fields": {
                 "id": 2,
                 "mark": "BMW",
@@ -64,7 +64,7 @@
                 "slug": "audi-r8",
                 "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.",
                 "country": "Germany",
-                "isAvailable": true,
+                "isAvailable": false,
                 "featured": false,
                 "inCart": false,
                 "amount": 0,
@@ -92,7 +92,7 @@
                 "slug": "bmw-x5m",
                 "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
                 "country": "Germany",
-                "isAvailable": true,
+                "isAvailable": false,
                 "featured": false,
                 "inCart": false,
                 "amount": 0,
@@ -104,12 +104,153 @@
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph
+                "maxSpeed": "312 mph"
             },
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/VJXWM/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg",
                 "https://cdn.motor1.com/images/mgl/po0JJ/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg"
+            ]
+        },
+
+        {
+            "fields": {
+                "id": 5,
+                "mark": "Ferrari",
+                "model": "488 Pista",
+                "slug": "ferrari-488-pista",
+                "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",
+                "country": "Italy",
+                "isAvailable": true,
+                "featured": true,
+                "inCart": false,
+                "amount": 0,
+                "total": 0,
+                "cost": 330000
+            },
+
+            "techParams": {
+                "engine": "4.0-liter Flat Six",
+                "horsepower": "520 hp",
+                "acceleration": "3.2",
+                "maxSpeed": "312 mph"
+            },
+
+            "images": [
+                "https://cdn.motor1.com/images/mgl/n7Jek/s1/ferrari-488-pista-by-novitec.jpg",
+                "https://cdn.motor1.com/images/mgl/KkNeA/s1/ferrari-488-pista-by-novitec.jpg"
+            ]
+        },
+        {
+            "fields": {
+                "id": 6,
+                "mark": "Lamborghini",
+                "model": "Urus",
+                "slug": "lamborghini-urus",
+                "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
+                "country": "Italy",
+                "isAvailable": true,
+                "featured": false,
+                "inCart": false,
+                "amount": 0,
+                "total": 0,
+                "cost": 200000
+            },
+
+            "techParams": {
+                "engine": "4.0-liter Flat Six",
+                "horsepower": "520 hp",
+                "acceleration": "3.2",
+                "maxSpeed": "312 mph"
+            },
+
+            "images": [
+                "https://cdn.motor1.com/images/mgl/BERBe/s1/urus.jpg",
+                "https://cdn.motor1.com/images/mgl/0mqYp/s1/urus.jpg"
+            ]
+        },
+        {
+            "fields": {
+                "id": 7,
+                "mark": "Porsche",
+                "model": "Panamera",
+                "slug": "porsche-panamera",
+                "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
+                "country": "Germany",
+                "isAvailable": true,
+                "featured": false,
+                "inCart": false,
+                "amount": 0,
+                "total": 0,
+                "cost": 98000
+            },
+
+            "techParams": {
+                "engine": "4.0-liter Flat Six",
+                "horsepower": "520 hp",
+                "acceleration": "3.2",
+                "maxSpeed": "312 mph"
+            },
+
+            "images": [
+                "https://cdn.motor1.com/images/mgl/QN6lY/s1/porsche-exclusive-panamera-turbo-executive.jpg",
+                "https://cdn.motor1.com/images/mgl/qeQEg/s1/porsche-exclusive-panamera-turbo-executive.jpg"
+            ]
+        },
+        {
+            "fields": {
+                "id": 8,
+                "mark": "Bugatti",
+                "model": "Chiron Pur Sport",
+                "slug": "buggati-chiron-pur-sport",
+                "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+                "country": "France",
+                "isAvailable": false,
+                "featured": false,
+                "inCart": false,
+                "amount": 0,
+                "total": 0,
+                "cost": 3000000
+            },
+
+            "techParams": {
+                "engine": "4.0-liter Flat Six",
+                "horsepower": "520 hp",
+                "acceleration": "3.2",
+                "maxSpeed": "312 mph"
+            },
+
+            "images": [
+                "https://cdn.motor1.com/images/mgl/VmVgz/s1/bugatti-chiron-pur-sport-2020.jpg",
+                "https://cdn.motor1.com/images/mgl/M7eY8/s1/bugatti-chiron-pur-sport-2020.jpg"
+            ]
+        },
+        {
+            "fields": {
+                "id": 9,
+                "mark": "Nissan",
+                "model": "GTR",
+                "slug": "nissan-gtr",
+                "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros.",
+                "country": "Japan",
+                "isAvailable": true,
+                "featured": true,
+                "inCart": false,
+                "amount": 0,
+                "total": 0,
+                "cost": 113540,
+            },
+
+            "techParams": {
+                "engine": "4.0-liter Flat Six",
+                "horsepower": "520 hp",
+                "acceleration": "3.2",
+                "maxSpeed": "312 mph"
+            },
+
+            "images": [
+                "https://cdn.motor1.com/images/mgl/QEjA9/s1/nissan-gt-r50-by-italdesign.jpg",
+                "https://cdn.motor1.com/images/mgl/qNALJ/s1/nissan-gt-r50-by-italdesign.jpg"
             ]
         }
    ]
