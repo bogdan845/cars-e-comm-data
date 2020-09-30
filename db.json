@@ -1,11 +1,11 @@
 [
-        {
+    {
         "fields": {
             "id": 1,
             "mark": "Porsche",
             "model": "911 GTR-3 RS",
             "slug": "porsche-gt-3-rs",
-            "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.",
+            "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
             "country": "Germany",
             "isAvailable": true,
             "featured": true,
@@ -18,8 +18,10 @@
         "techParams": {
             "engine": "4.0-liter Flat Six",
             "horsepower": "520 hp",
+            "torque": "346 lb-ft",
             "acceleration": "3.2",
             "maxSpeed": "312 mph",
+            "transmission": "7-Speed Dual Clutch"
         },
 
         "images": [
@@ -27,35 +29,6 @@
             "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg",
             "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
             "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
-        ]
-    },
-    {
-        "fields": {
-            "id": 2,
-            "mark": "BMW",
-            "model": "7",
-            "slug": "bmw-7",
-            "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
-            "country": "Germany",
-            "isAvailable": true,
-            "featured": false,
-            "inCart": false,
-            "amount": 0,
-            "total": 0,
-            "cost": 158000
-        },
-
-        "techParams": {
-            "engine": "4.0-liter Flat Six",
-            "horsepower": "520 hp",
-            "acceleration": "3.2",
-            "maxSpeed": "312 mph",
-        },
-
-        "images": [
-            "https://cdn.motor1.com/images/mgl/nwM4R/s1/bmw-7-series-individual-edition-black-ice.jpg",
-            "https://cdn.motor1.com/images/mgl/LbAgN/s1/bmw-7-series-individual-edition-black-ice.jpg",
-            "https://cdn.motor1.com/images/mgl/eANjp/s1/bmw-7-series-individual-edition-black-ice.jpg"
         ]
     }
 ]
