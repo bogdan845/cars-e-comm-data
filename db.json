@@ -3,13 +3,13 @@
     {
       "fields": {
         "title" : "lol
+      },
+      
+      "so": {
+        "kind": "of strange"
       }
     },
+    {}
     
-    {
-      "why": {
-        "so" : "whats wrong"
-      }
-    }
   ]
 }
