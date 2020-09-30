@@ -1,4 +1,4 @@
-
+[
     {
         "fields": {
             "id": 1,
@@ -23,12 +23,5 @@
             "maxSpeed": "312 mph",
             "transmission": "7-Speed Dual Clutch"
         },
-
-        "images": [
-            "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
-            "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg",
-            "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
-            "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
-        ]
     }
-
+]
