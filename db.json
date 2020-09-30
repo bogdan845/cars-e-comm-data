@@ -4,14 +4,8 @@
       {
         "title": {
         	"id": 1,
-			"mark": "power",
-        },
-		  
-		  images: [
-		  	1,2,3
-		  ]
-      },
-      {},
-      {}
+		"mark": "power",
+        }	 
+      }
    ]
 }
