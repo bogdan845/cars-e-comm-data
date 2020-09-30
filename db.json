@@ -321,33 +321,5 @@
             "https://cdn.motor1.com/images/mgl/LB1x3/s1/2021-toyota-supra-3.0-premium.jpg"
         ]
     },
-    {
-        "fields": {
-            "id": 12,
-            "mark": "BMW",
-            "model": "M 5",
-            "slug": "bmw-m5",
-            "description": "Mauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat.",
-            "country": "Germany",
-            "isAvailable": false,
-            "featured": false,
-            "inCart": false,
-            "amount": 0,
-            "total": 0,
-            "cost": 119995
-        },
-
-        "techParams": {
-            "engine": "4.0-liter Flat Six",
-            "horsepower": "520 hp",
-            "acceleration": "3.2",
-            "maxSpeed": "312 mph",
-        },
-
-        "images": [
-            "https://cdn.motor1.com/images/mgl/2yrnB/s1/2018-bmw-m550i-xdrive-first-drive.jpg",
-            "https://cdn.motor1.com/images/mgl/AVRAP/s1/2018-bmw-m550i-xdrive-first-drive.jpg",
-            "https://cdn.motor1.com/images/mgl/8VrBo/s1/2018-bmw-m550i-xdrive-first-drive.jpg",
-        ]
-    }
+   
 ]
