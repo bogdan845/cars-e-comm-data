@@ -349,34 +349,5 @@
             "https://cdn.motor1.com/images/mgl/AVRAP/s1/2018-bmw-m550i-xdrive-first-drive.jpg",
             "https://cdn.motor1.com/images/mgl/8VrBo/s1/2018-bmw-m550i-xdrive-first-drive.jpg",
         ]
-    },
-    {
-        "fields": {
-            "id": 13,
-            "mark": "Ferrari",
-            "model": "SF90 Stradale",
-            "slug": "ferrari-sf90-stradale",
-            "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices.",
-            "country": "Italy",
-            "isAvailable": false,
-            "featured": false,
-            "inCart": false,
-            "amount": 0,
-            "total": 0,
-            "cost": 600000
-        },
-
-        "techParams": {
-            "engine": "4.0-liter Flat Six",
-            "horsepower": "520 hp",
-            "acceleration": "3.2",
-            "maxSpeed": "312 mph",
-        },
-
-        "images": [
-            "https://cdn.motor1.com/images/mgl/0x6J3/s1/ferrari-sf90-stradale.jpg",
-            "https://cdn.motor1.com/images/mgl/7wzep/s1/ferrari-sf90-stradale.jpg",
-            "https://cdn.motor1.com/images/mgl/OWG1L/s1/ferrari-sf90-stradale.jpg",
-        ]
     }
 ]
