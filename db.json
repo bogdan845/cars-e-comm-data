@@ -266,35 +266,6 @@
     {
         "fields": {
             "id": 10,
-            "mark": "Toyota",
-            "model": "Camry",
-            "slug": "toyota-camry",
-            "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.",
-            "country": "Japan",
-            "isAvailable": true,
-            "featured": false,
-            "inCart": false,
-            "amount": 0,
-            "total": 0,
-            "cost": 300000
-        },
-
-        "techParams": {
-            "engine": "4.0-liter Flat Six",
-            "horsepower": "520 hp",
-            "acceleration": "3.2",
-            "maxSpeed": "312 mph",
-        },
-
-        "images": [
-            "https://cdn.motor1.com/images/mgl/gWovw/s1/2018-toyota-camry.jpg",
-            "https://cdn.motor1.com/images/mgl/jAyNo/s1/camry-teaser-9a32fba7171e5c1cb4430c5b06deba85c3d92cbb.jpg",
-            "https://cdn.motor1.com/images/mgl/b72rn/s1/2018-toyota-camry.jpg"
-        ]
-    },
-    {
-        "fields": {
-            "id": 11,
             "mark": "Lamborghini",
             "model": "Huracan Evo",
             "slug": "lamborghini-huracan-evo",
@@ -323,7 +294,7 @@
     },
     {
         "fields": {
-            "id": 12,
+            "id": 11,
             "mark": "Toyota",
             "model": "Supra",
             "slug": "toyota-supra",
@@ -352,7 +323,7 @@
     },
     {
         "fields": {
-            "id": 13,
+            "id": 12,
             "mark": "BMW",
             "model": "M 5",
             "slug": "bmw-m5",
@@ -381,7 +352,7 @@
     },
     {
         "fields": {
-            "id": 14,
+            "id": 13,
             "mark": "Ferrari",
             "model": "SF90 Stradale",
             "slug": "ferrari-sf90-stradale",
