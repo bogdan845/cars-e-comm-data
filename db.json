@@ -252,68 +252,6 @@ export default {
                 "https://cdn.motor1.com/images/mgl/X8Z66/s1/bugatti-chiron-pur-sport-2020.jpg",
                 "https://cdn.motor1.com/images/mgl/jvPEo/s1/bugatti-chiron-pur-sport-2020.jpg"
             ]
-        },
-        {
-            "fields": {
-                "id": 9,
-                "mark": "Nissan",
-                "model": "GTR",
-                "slug": "nissan-gtr",
-                "description": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.\n\nQuisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
-                "country": "Japan",
-                "isAvailable": true,
-                "featured": false,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 113540,
-            },
-
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "torque": "346 lb-ft",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
-            },
-
-            "images": [
-                "https://cdn.motor1.com/images/mgl/QEjA9/s1/nissan-gt-r50-by-italdesign.jpg",
-                "https://cdn.motor1.com/images/mgl/qNALJ/s1/nissan-gt-r50-by-italdesign.jpg",
-                "https://cdn.motor1.com/images/mgl/rQxLr/s1/nissan-gt-r50-by-italdesign.jpg"
-            ]
-        },
-        {
-            "fields": {
-                "id": 10,
-                "mark": "Toyota",
-                "model": "Camry",
-                "slug": "toyota-camry",
-                "description": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.\n\nPraesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
-                "country": "Japan",
-                "isAvailable": true,
-                "featured": false,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 300000
-            },
-
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "torque": "346 lb-ft",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
-            },
-
-            "images": [
-                "https://cdn.motor1.com/images/mgl/gWovw/s1/2018-toyota-camry.jpg",
-                "https://cdn.motor1.com/images/mgl/jAyNo/s1/camry-teaser-9a32fba7171e5c1cb4430c5b06deba85c3d92cbb.jpg",
-                "https://cdn.motor1.com/images/mgl/b72rn/s1/2018-toyota-camry.jpg"
-            ]
         }
     ]
 }
