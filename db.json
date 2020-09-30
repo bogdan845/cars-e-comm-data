@@ -2,10 +2,7 @@
    "data": [
       
       {
-        "title": {
-        	"id": 1,
-		"mark": "power",
-        }	 
+        "title": {"id": 1}	 
       }
    ]
 }
