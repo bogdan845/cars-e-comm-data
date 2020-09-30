@@ -19,17 +19,14 @@
          "techParams": {
              "engine": "4.0-liter Flat Six",
              "horsepower": "520 hp",
-             "torque": "346 lb-ft",
              "acceleration": "3.2",
-             "maxSpeed": "312 mph",
-             "transmission": "7-Speed Dual Clutch"
+             "maxSpeed": "312 mph"
          },
          
          "images": [
              "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
              "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg",
-             "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
-             "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
+             "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg"
          ]
       },
       {
@@ -51,10 +48,8 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
@@ -82,17 +77,14 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/oYoE4/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
                 "https://cdn.motor1.com/images/mgl/xkZOw/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
-                "https://cdn.motor1.com/images/mgl/8lP0J/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
-                "https://cdn.motor1.com/images/mgl/mQxYv/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg"
+                "https://cdn.motor1.com/images/mgl/8lP0J/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg"
             ]
         },
         {
@@ -114,17 +106,15 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph
             },
 
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/VJXWM/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg",
                 "https://cdn.motor1.com/images/mgl/po0JJ/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg",
-                "https://cdn.motor1.com/images/mgl/b9zPl/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg",
+                "https://cdn.motor1.com/images/mgl/b9zPl/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg"
             ]
         },
         {
@@ -146,12 +136,9 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
-
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/n7Jek/s1/ferrari-488-pista-by-novitec.jpg",
@@ -178,10 +165,8 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
@@ -209,15 +194,13 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/QN6lY/s1/porsche-exclusive-panamera-turbo-executive.jpg",
-                "https://cdn.motor1.com/images/mgl/qeQEg/s1/porsche-exclusive-panamera-turbo-executive.jpg",
+                "https://cdn.motor1.com/images/mgl/qeQEg/s1/porsche-exclusive-panamera-turbo-executive.jpg"
             ]
         },
         {
@@ -239,17 +222,14 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/VmVgz/s1/bugatti-chiron-pur-sport-2020.jpg",
                 "https://cdn.motor1.com/images/mgl/M7eY8/s1/bugatti-chiron-pur-sport-2020.jpg",
-                "https://cdn.motor1.com/images/mgl/X8Z66/s1/bugatti-chiron-pur-sport-2020.jpg",
-                "https://cdn.motor1.com/images/mgl/jvPEo/s1/bugatti-chiron-pur-sport-2020.jpg"
+                "https://cdn.motor1.com/images/mgl/X8Z66/s1/bugatti-chiron-pur-sport-2020.jpg"
             ]
         },
         {
@@ -271,10 +251,8 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
@@ -302,10 +280,8 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
@@ -333,10 +309,8 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
@@ -364,10 +338,8 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
@@ -395,16 +367,14 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/2yrnB/s1/2018-bmw-m550i-xdrive-first-drive.jpg",
                 "https://cdn.motor1.com/images/mgl/AVRAP/s1/2018-bmw-m550i-xdrive-first-drive.jpg",
-                "https://cdn.motor1.com/images/mgl/8VrBo/s1/2018-bmw-m550i-xdrive-first-drive.jpg",
+                "https://cdn.motor1.com/images/mgl/8VrBo/s1/2018-bmw-m550i-xdrive-first-drive.jpg"
             ]
         },
         {
@@ -426,16 +396,14 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph"
             },
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/0x6J3/s1/ferrari-sf90-stradale.jpg",
                 "https://cdn.motor1.com/images/mgl/7wzep/s1/ferrari-sf90-stradale.jpg",
-                "https://cdn.motor1.com/images/mgl/OWG1L/s1/ferrari-sf90-stradale.jpg",
+                "https://cdn.motor1.com/images/mgl/OWG1L/s1/ferrari-sf90-stradale.jpg"
             ]
         },
 
@@ -458,17 +426,14 @@
             "techParams": {
                 "engine": "4.0-liter Flat Six",
                 "horsepower": "520 hp",
-                "torque": "346 lb-ft",
                 "acceleration": "3.2",
-                "maxSpeed": "312 mph",
-                "transmission": "7-Speed Dual Clutch"
+                "maxSpeed": "312 mph
             },
 
             "images": [
                 "https://cdn.motor1.com/images/mgl/Wzr7o/s1/2018-porsche-718-boxster-gts-configurator.jpg",
                 "https://cdn.motor1.com/images/mgl/2162E/s1/2018-porsche-718-boxster-gts-configurator.jpg",
-                "https://cdn.motor1.com/images/mgl/AL0nN/s1/2018-porsche-718-boxster-gts-configurator.jpg",
-                "https://cdn.motor1.com/images/mgl/KErM1/s1/2018-porsche-718-boxster-gts-configurator.jpg",
+                "https://cdn.motor1.com/images/mgl/AL0nN/s1/2018-porsche-718-boxster-gts-configurator.jpg"
             ]
         }
    ]
