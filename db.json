@@ -1,37 +1,37 @@
 {
-  "data" : [
-   {
-         "fields": {
-                    "id": 1,
-                    "mark": "Porsche",
-                    "model": "911 GTR-3 RS",
-                    "slug": "porsche-gt-3-rs",
-                    "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
-                    "country": "Germany",
-                    "isAvailable": true,
-                    "featured": true,
-                    "inCart": false,
-                    "amount": 0,
-                    "total": 0,
-                    "cost": 188550,
-                },
+    "data": [
+        {
+            "fields": {
+                "id": 1,
+                "mark": "Porsche",
+                "model": "911 GTR-3 RS",
+                "slug": "porsche-gt-3-rs",
+                "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
+                "country": "Germany",
+                "isAvailable": true,
+                "featured": true,
+                "inCart": false,
+                "amount": 0,
+                "total": 0,
+                "cost": 188550,
+            },
 
-                "techParams": {
-                    "engine": "4.0-liter Flat Six",
-                    "horsepower": "520 hp",
-                    "torque": "346 lb-ft",
-                    "acceleration": "3.2",
-                    "maxSpeed": "312 mph",
-                    "transmission": "7-Speed Dual Clutch"
-                },
+            "techParams": {
+                "engine": "4.0-liter Flat Six",
+                "horsepower": "520 hp",
+                "torque": "346 lb-ft",
+                "acceleration": "3.2",
+                "maxSpeed": "312 mph",
+                "transmission": "7-Speed Dual Clutch"
+            },
 
-                "images": [
-                    "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
-                    "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg",
-                    "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
-                    "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
-                ]
-        	},
+            "images": [
+                "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
+                "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg",
+                "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
+                "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
+            ]
+        },
 
         {
             "fields": {
@@ -39,7 +39,7 @@
                 "mark": "BMW",
                 "model": "7",
                 "slug": "bmw-7",
-                "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi.",
+                "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
                 "country": "Germany",
                 "isAvailable": true,
                 "featured": false,
@@ -134,7 +134,7 @@
                 "mark": "Ferrari",
                 "model": "488 Pista",
                 "slug": "ferrari-488-pista",
-                "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+                "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",
                 "country": "Italy",
                 "isAvailable": false,
                 "featured": true,
@@ -166,7 +166,7 @@
                 "mark": "Lamborghini",
                 "model": "Urus",
                 "slug": "lamborghini-urus",
-                "description": "Proin interdum mauris non ligula pellentesque ultrices.",
+                "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
                 "country": "Italy",
                 "isAvailable": true,
                 "featured": false,
@@ -197,7 +197,7 @@
                 "mark": "Porsche",
                 "model": "Panamera",
                 "slug": "porsche-panamera",
-                "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna.",
+                "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
                 "country": "Germany",
                 "isAvailable": true,
                 "featured": false,
@@ -227,7 +227,7 @@
                 "mark": "Bugatti",
                 "model": "Chiron Pur Sport",
                 "slug": "buggati-chiron-pur-sport",
-                "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+                "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
                 "country": "France",
                 "isAvailable": false,
                 "featured": false,
@@ -321,7 +321,7 @@
                 "mark": "Lamborghini",
                 "model": "Huracan Evo",
                 "slug": "lamborghini-huracan-evo",
-                "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy.",
+                "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
                 "country": "Italy",
                 "isAvailable": true,
                 "featured": true,
@@ -352,7 +352,7 @@
                 "mark": "Toyota",
                 "model": "Supra",
                 "slug": "toyota-supra",
-                "description": "In hac habitasse platea dictumst.",
+                "description": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum.",
                 "country": "Japan",
                 "isAvailable": false,
                 "featured": false,
@@ -446,7 +446,7 @@
                 "mark": "Porsche",
                 "model": "718 Boxster GTS",
                 "slug": "porsche-718-boxster-gts",
-                "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo.",
+                "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.",
                 "country": "Germany",
                 "isAvailable": false,
                 "featured": false,
