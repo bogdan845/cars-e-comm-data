@@ -1,6 +1,6 @@
 {
   "data" : [
-    {
+   {
          "fields": {
                     "id": 1,
                     "mark": "Porsche",
@@ -31,8 +31,7 @@
                     "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
                     "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
                 ]
-            }
-        },
+        	},
 
         {
             "fields": {
