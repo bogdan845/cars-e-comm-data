@@ -232,34 +232,5 @@
             "https://cdn.motor1.com/images/mgl/qNALJ/s1/nissan-gt-r50-by-italdesign.jpg",
             "https://cdn.motor1.com/images/mgl/rQxLr/s1/nissan-gt-r50-by-italdesign.jpg"
         ]
-    },
-    {
-        "fields": {
-            "id": 10,
-            "mark": "Lamborghini",
-            "model": "Huracan Evo",
-            "slug": "lamborghini-huracan-evo",
-            "description": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
-            "country": "Italy",
-            "isAvailable": true,
-            "featured": true,
-            "inCart": false,
-            "amount": 0,
-            "total": 0,
-            "cost": 247000
-        },
-
-        "techParams": {
-            "engine": "4.0-liter Flat Six",
-            "horsepower": "520 hp",
-            "acceleration": "3.2",
-            "maxSpeed": "312 mph",
-        },
-
-        "images": [
-            "https://cdn.motor1.com/images/mgl/LpX0m/s1/lamborghini-huracan-evo-by-novitec.jpg",
-            "https://cdn.motor1.com/images/mgl/y03ml/s1/lamborghini-huracan-evo-by-novitec.jpg",
-            "https://cdn.motor1.com/images/mgl/3oYQY/s1/lamborghini-huracan-evo-by-novitec.jpg"
-        ]
-    },
+    }
 ]
