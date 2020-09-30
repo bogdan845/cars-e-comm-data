@@ -59,36 +59,6 @@
     },
     {
         "fields": {
-            "id": 3,
-            "mark": "Audi",
-            "model": "R8",
-            "slug": "audi-r8",
-            "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.\n\nFusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis.",
-            "country": "Germany",
-            "isAvailable": true,
-            "featured": false,
-            "inCart": false,
-            "amount": 0,
-            "total": 0,
-            "cost": 169900
-        },
-
-        "techParams": {
-            "engine": "4.0-liter Flat Six",
-            "horsepower": "520 hp",
-            "acceleration": "3.2",
-            "maxSpeed": "312 mph",
-        },
-
-        "images": [
-            "https://cdn.motor1.com/images/mgl/oYoE4/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
-            "https://cdn.motor1.com/images/mgl/xkZOw/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
-            "https://cdn.motor1.com/images/mgl/8lP0J/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
-            "https://cdn.motor1.com/images/mgl/mQxYv/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg"
-        ]
-    },
-    {
-        "fields": {
             "id": 4,
             "mark": "BMW",
             "model": "X5 M",
