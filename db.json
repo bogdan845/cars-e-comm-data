@@ -407,35 +407,5 @@
             "https://cdn.motor1.com/images/mgl/7wzep/s1/ferrari-sf90-stradale.jpg",
             "https://cdn.motor1.com/images/mgl/OWG1L/s1/ferrari-sf90-stradale.jpg",
         ]
-    },
-    {
-        "fields": {
-            "id": 15,
-            "mark": "Porsche",
-            "model": "718 Boxster GTS",
-            "slug": "porsche-718-boxster-gts",
-            "description": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices.",
-            "country": "Germany",
-            "isAvailable": false,
-            "featured": false,
-            "inCart": false,
-            "amount": 0,
-            "total": 0,
-            "cost": 72000
-        },
-
-        "techParams": {
-            "engine": "4.0-liter Flat Six",
-            "horsepower": "520 hp",
-            "acceleration": "3.2",
-            "maxSpeed": "312 mph",
-        },
-
-        "images": [
-            "https://cdn.motor1.com/images/mgl/Wzr7o/s1/2018-porsche-718-boxster-gts-configurator.jpg",
-            "https://cdn.motor1.com/images/mgl/2162E/s1/2018-porsche-718-boxster-gts-configurator.jpg",
-            "https://cdn.motor1.com/images/mgl/AL0nN/s1/2018-porsche-718-boxster-gts-configurator.jpg",
-            "https://cdn.motor1.com/images/mgl/KErM1/s1/2018-porsche-718-boxster-gts-configurator.jpg",
-        ]
     }
 ]
