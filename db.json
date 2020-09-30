@@ -1,1493 +1,428 @@
 {
-    "Kiev": {
-        "country": "Ukraine",
-        "Sunday": [
-            {
-                "time": "morning",
-                "temp": "+20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Monday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "thunder"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Tuesday": [
-            {
-                "time": "morning",
-                "temp": "+ 15",
-                "wind": "NW 6.1 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 14",
-                "wind": "NW 4 mph",
-                "wet": "97%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 15",
-                "wind": "S 6.7 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "NW 5.1 mph",
-                "wet": "10%",
-                "wea": "rain"
-            }
-        ],
-        "Wednesday": [
-            {
-                "time": "morning",
-                "temp": "+ 22",
-                "wind": "N 2 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 22",
-                "wind": "W 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 22",
-                "wind": "NW 15 mph",
-                "wet": "10%",
-                "wea": "cloud"
-            },
-            {
-                "time": "night",
-                "temp": "+ 22",
-                "wind": "W 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Thursday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "thunder"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Friday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Saturday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ]
-    },
-    "Berlin": {
-        "country": "Germany",
-        "Sunday": [
-            {
-                "time": "morning",
-                "temp": "+20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Monday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "thunder"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Tuesday": [
-            {
-                "time": "morning",
-                "temp": "+ 15",
-                "wind": "NW 6.1 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 14",
-                "wind": "NW 4 mph",
-                "wet": "97%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 15",
-                "wind": "S 6.7 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "NW 5.1 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Wednesday": [
-            {
-                "time": "morning",
-                "temp": "+ 22",
-                "wind": "N 2 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 22",
-                "wind": "W 35 mph",
-                "wet": "15%",
-                "wea": "cloud"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 22",
-                "wind": "NW 15 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 22",
-                "wind": "W 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Thursday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "thunder"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Friday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Saturday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ]
-    },
-    "Madrid": {
-        "country": "Spain",
-        "Sunday": [
-            {
-                "time": "morning",
-                "temp": "+20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Monday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "thunder"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Tuesday": [
-            {
-                "time": "morning",
-                "temp": "+ 15",
-                "wind": "NW 6.1 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 14",
-                "wind": "NW 4 mph",
-                "wet": "97%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 15",
-                "wind": "S 6.7 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "NW 5.1 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Wednesday": [
-            {
-                "time": "morning",
-                "temp": "+ 22",
-                "wind": "N 2 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 22",
-                "wind": "W 35 mph",
-                "wet": "15%",
-                "wea": "cloud"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 22",
-                "wind": "NW 15 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 22",
-                "wind": "W 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Thursday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "thunder"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Friday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Saturday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ]
-    },
-    "Rome": {
-        "country": "Italy",
-        "Sunday": [
-            {
-                "time": "morning",
-                "temp": "+20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Monday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "thunder"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Tuesday": [
-            {
-                "time": "morning",
-                "temp": "+ 15",
-                "wind": "NW 6.1 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 14",
-                "wind": "NW 4 mph",
-                "wet": "97%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 15",
-                "wind": "S 6.7 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "NW 5.1 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Wednesday": [
-            {
-                "time": "morning",
-                "temp": "+ 22",
-                "wind": "N 2 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 22",
-                "wind": "W 35 mph",
-                "wet": "15%",
-                "wea": "cloud"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 22",
-                "wind": "NW 15 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 22",
-                "wind": "W 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Thursday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "thunder"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Friday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Saturday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ]
-    },
-    "Paris": {
-        "country": "France",
-        "Sunday": [
-            {
-                "time": "morning",
-                "temp": "+20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Monday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "thunder"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Tuesday": [
-            {
-                "time": "morning",
-                "temp": "+ 15",
-                "wind": "NW 6.1 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 14",
-                "wind": "NW 4 mph",
-                "wet": "97%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 15",
-                "wind": "S 6.7 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "NW 5.1 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Wednesday": [
-            {
-                "time": "morning",
-                "temp": "+ 22",
-                "wind": "N 2 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 22",
-                "wind": "W 35 mph",
-                "wet": "15%",
-                "wea": "cloud"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 22",
-                "wind": "NW 15 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 22",
-                "wind": "W 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Thursday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "thunder"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Friday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Saturday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ]
-    },
-    "London": {
-        "country": "England",
-        "Sunday": [
-            {
-                "time": "morning",
-                "temp": "+20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Monday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "thunder"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Tuesday": [
-            {
-                "time": "morning",
-                "temp": "+ 15",
-                "wind": "NW 6.1 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 14",
-                "wind": "NW 4 mph",
-                "wet": "97%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 15",
-                "wind": "S 6.7 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "NW 5.1 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Wednesday": [
-            {
-                "time": "morning",
-                "temp": "+ 22",
-                "wind": "N 2 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 22",
-                "wind": "W 35 mph",
-                "wet": "15%",
-                "wea": "cloud"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 22",
-                "wind": "NW 15 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 22",
-                "wind": "W 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Thursday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "thunder"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Friday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Saturday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ]
-    },
-    "Istanbul": {
-        "country": "Turkey",
-        "Sunday": [
-            {
-                "time": "morning",
-                "temp": "+20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Monday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "thunder"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Tuesday": [
-            {
-                "time": "morning",
-                "temp": "+ 15",
-                "wind": "NW 6.1 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 14",
-                "wind": "NW 4 mph",
-                "wet": "97%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 15",
-                "wind": "S 6.7 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "NW 5.1 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Wednesday": [
-            {
-                "time": "morning",
-                "temp": "+ 22",
-                "wind": "N 2 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 22",
-                "wind": "W 35 mph",
-                "wet": "15%",
-                "wea": "cloud"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 22",
-                "wind": "NW 15 mph",
-                "wet": "10%",
-                "wea": "rain"
-            },
-            {
-                "time": "night",
-                "temp": "+ 22",
-                "wind": "W 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Thursday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "sun"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "thunder"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Friday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ],
-        "Saturday": [
-            {
-                "time": "morning",
-                "temp": "+ 20",
-                "wind": "S 10 mph",
-                "wet": "35%",
-                "wea": "thunder"
-            },
-            {
-                "time": "day",
-                "temp": "+ 27",
-                "wind": "S 35 mph",
-                "wet": "15%",
-                "wea": "rain"
-            },
-            {
-                "time": "evening",
-                "temp": "+ 18",
-                "wind": "S 15 mph",
-                "wet": "10%",
-                "wea": "snow"
-            },
-            {
-                "time": "night",
-                "temp": "+ 15",
-                "wind": "S 5 mph",
-                "wet": "10%",
-                "wea": "moon"
-            }
-        ]
-    }
+  "Kiev": {
+    "country": "Ukraine",
+    "Sunday": [
+      {
+        "time": "morning",
+        "temp": "+ 22",
+        "wind": "SE 2.5 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "SE 3.2 mph",
+        "wet": "15%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 22",
+        "wind": "S 1.9 mph",
+        "wet": "10%",
+        "wea": "cloud"
+      },
+      {
+        "time": "night",
+        "temp": "+ 15",
+        "wind": "N 2.1 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "morning",
+        "temp": "+ 23",
+        "wind": "N 1.6 mph",
+        "wet": "35%",
+        "wea": "cloud"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "N 1.6 mph",
+        "wet": "15%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 24",
+        "wind": "N 1.5 mph",
+        "wet": "10%",
+        "wea": "thunder"
+      },
+      {
+        "time": "night",
+        "temp": "+ 16",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "morning",
+        "temp": "+ 15",
+        "wind": "NW 2.1 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 24",
+        "wind": "NW 4 mph",
+        "wet": "97%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 20",
+        "wind": "S 6.7 mph",
+        "wet": "10%",
+        "wea": "snow"
+      },
+      {
+        "time": "night",
+        "temp": "+ 15",
+        "wind": "NW 5.1 mph",
+        "wet": "10%",
+        "wea": "thunder"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "morning",
+        "temp": "+ 22",
+        "wind": "N 2 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 32",
+        "wind": "W 3.5 mph",
+        "wet": "15%",
+        "wea": "sun"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 28",
+        "wind": "NW 1.5 mph",
+        "wet": "10%",
+        "wea": "cloud"
+      },
+      {
+        "time": "night",
+        "temp": "+ 22",
+        "wind": "W 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "morning",
+        "temp": "+ 20",
+        "wind": "S 10 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "S 3.5 mph",
+        "wet": "15%",
+        "wea": "thunder"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 18",
+        "wind": "S 1.5 mph",
+        "wet": "10%",
+        "wea": "snow"
+      },
+      {
+        "time": "night",
+        "temp": "+ 15",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "rain"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "morning",
+        "temp": "+ 20",
+        "wind": "S 1 mph",
+        "wet": "35%",
+        "wea": "thunder"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "S 3.5 mph",
+        "wet": "15%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 18",
+        "wind": "S 1.5 mph",
+        "wet": "10%",
+        "wea": "snow"
+      },
+      {
+        "time": "night",
+        "temp": "+ 15",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "morning",
+        "temp": "+ 20",
+        "wind": "S 10 mph",
+        "wet": "35%",
+        "wea": "thunder"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "S 3.5 mph",
+        "wet": "15%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 18",
+        "wind": "S 1.5 mph",
+        "wet": "10%",
+        "wea": "snow"
+      },
+      {
+        "time": "night",
+        "temp": "+ 15",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ]
+  },
+  "Rome": {
+    "country": "Italy",
+    "Sunday": [
+      {
+        "time": "morning",
+        "temp": "+ 20",
+        "wind": "S 10 mph",
+        "wet": "35%",
+        "wea": "thunder"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "S 3.5 mph",
+        "wet": "15%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 18",
+        "wind": "S 15 mph",
+        "wet": "10%",
+        "wea": "snow"
+      },
+      {
+        "time": "night",
+        "temp": "+ 15",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Monday": [
+      {
+        "time": "morning",
+        "temp": "+ 27",
+        "wind": "S 10 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 37",
+        "wind": "S 35 mph",
+        "wet": "15%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 27",
+        "wind": "S 1.5 mph",
+        "wet": "10%",
+        "wea": "thunder"
+      },
+      {
+        "time": "night",
+        "temp": "+ 25",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Tuesday": [
+      {
+        "time": "morning",
+        "temp": "+ 15",
+        "wind": "NW 6.1 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 18",
+        "wind": "NW 4 mph",
+        "wet": "97%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 15",
+        "wind": "S 6.7 mph",
+        "wet": "10%",
+        "wea": "rain"
+      },
+      {
+        "time": "night",
+        "temp": "+ 10",
+        "wind": "NW 5.1 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Wednesday": [
+      {
+        "time": "morning",
+        "temp": "+ 22",
+        "wind": "N 2 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 32",
+        "wind": "W 3.5 mph",
+        "wet": "15%",
+        "wea": "cloud"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 22",
+        "wind": "NW 15 mph",
+        "wet": "10%",
+        "wea": "rain"
+      },
+      {
+        "time": "night",
+        "temp": "+ 18",
+        "wind": "W 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Thursday": [
+      {
+        "time": "morning",
+        "temp": "+ 20",
+        "wind": "S 10 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "S 35 mph",
+        "wet": "15%",
+        "wea": "thunder"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 32",
+        "wind": "S 15 mph",
+        "wet": "10%",
+        "wea": "rain"
+      },
+      {
+        "time": "night",
+        "temp": "+ 20",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "snow"
+      }
+    ],
+    "Friday": [
+      {
+        "time": "morning",
+        "temp": "+ 20",
+        "wind": "S 10 mph",
+        "wet": "35%",
+        "wea": "sun"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "S 35 mph",
+        "wet": "15%",
+        "wea": "cloud"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 22",
+        "wind": "S 1.5 mph",
+        "wet": "10%",
+        "wea": "snow"
+      },
+      {
+        "time": "night",
+        "temp": "+ 15",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ],
+    "Saturday": [
+      {
+        "time": "morning",
+        "temp": "+ 15",
+        "wind": "S 10 mph",
+        "wet": "35%",
+        "wea": "thunder"
+      },
+      {
+        "time": "day",
+        "temp": "+ 27",
+        "wind": "S 35 mph",
+        "wet": "15%",
+        "wea": "rain"
+      },
+      {
+        "time": "evening",
+        "temp": "+ 22",
+        "wind": "S 15 mph",
+        "wet": "10%",
+        "wea": "snow"
+      },
+      {
+        "time": "night",
+        "temp": "+ 18",
+        "wind": "S 5 mph",
+        "wet": "10%",
+        "wea": "moon"
+      }
+    ]
+  }
 }
