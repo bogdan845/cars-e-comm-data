@@ -1,183 +1,22 @@
 {
-    "data": [
-        {
-            "fields": {
-                "id": 1,
-                "mark": "Porsche",
-                "model": "911 GTR-3 RS",
-                "slug": "porsche-gt-3-rs",
-                "description": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus.",
-                "country": "Germany",
-                "isAvailable": true,
-                "featured": true,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 188550
-            },
-
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph"
-            },
-
-            "images": [
-                "https://cdn.motor1.com/images/mgl/kMMWR/s1/2018-porsche-911-gt3-rs.jpg",
-                "https://cdn.motor1.com/images/mgl/OxxeB/s1/2018-porsche-911-gt3-rs.jpg",
-                "https://cdn.motor1.com/images/mgl/xVVpk/s1/2018-porsche-911-gt3-rs.jpg",
-                "https://cdn.motor1.com/images/mgl/mvvEo/s1/2018-porsche-911-gt3-rs.jpg"
-            ]
-        },
-
-        {
-            "fields": {
-                "id": 2,
-                "mark": "BMW",
-                "model": "7",
-                "slug": "bmw-7",
-                "description": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.",
-                "country": "Germany",
-                "isAvailable": true,
-                "featured": false,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 158000
-            },
-
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph"
-            },
-
-            "images": [
-                "https://cdn.motor1.com/images/mgl/nwM4R/s1/bmw-7-series-individual-edition-black-ice.jpg",
-                "https://cdn.motor1.com/images/mgl/LbAgN/s1/bmw-7-series-individual-edition-black-ice.jpg",
-                "https://cdn.motor1.com/images/mgl/eANjp/s1/bmw-7-series-individual-edition-black-ice.jpg"
-            ]
-        },
-        {
-            "fields": {
-                "id": 3,
-                "mark": "Audi",
-                "model": "R8",
-                "slug": "audi-r8",
-                "description": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet.",
-                "country": "Germany",
-                "isAvailable": true,
-                "featured": false,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 169900
-            },
-
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph"
-            },
-
-            "images": [
-                "https://cdn.motor1.com/images/mgl/oYoE4/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
-                "https://cdn.motor1.com/images/mgl/xkZOw/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
-                "https://cdn.motor1.com/images/mgl/8lP0J/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg",
-                "https://cdn.motor1.com/images/mgl/mQxYv/s1/2019-audi-r8-v10-performance-quattro-vegas-yellow.jpg"
-            ]
-        },
-        {
-            "fields": {
-                "id": 4,
-                "mark": "BMW",
-                "model": "X5 M",
-                "slug": "bmw-x5m",
-                "description": "Aenean fermentum. Donec ut mauris eget massa tempor convallis.",
-                "country": "Germany",
-                "isAvailable": true,
-                "featured": false,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 105100
-            },
-
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph"
-            },
-
-
-            "images": [
-                "https://cdn.motor1.com/images/mgl/VJXWM/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg",
-                "https://cdn.motor1.com/images/mgl/po0JJ/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg",
-                "https://cdn.motor1.com/images/mgl/b9zPl/s1/bmw-x5-m-avalanche-by-auto-dynamics.jpg",
-            ]
-        },
-        {
-            "fields": {
-                "id": 5,
-                "mark": "Ferrari",
-                "model": "488 Pista",
-                "slug": "ferrari-488-pista",
-                "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Proin risus.",
-                "country": "Italy",
-                "isAvailable": false,
-                "featured": true,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 330000
-            },
-
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph"
-            },
-
-
-            "images": [
-                "https://cdn.motor1.com/images/mgl/n7Jek/s1/ferrari-488-pista-by-novitec.jpg",
-                "https://cdn.motor1.com/images/mgl/KkNeA/s1/ferrari-488-pista-by-novitec.jpg",
-                "https://cdn.motor1.com/images/mgl/18bvw/s1/ferrari-488-pista-by-novitec.jpg"
-            ]
-        },
-        {
-            "fields": {
-                "id": 6,
-                "mark": "Lamborghini",
-                "model": "Urus",
-                "slug": "lamborghini-urus",
-                "description": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue.",
-                "country": "Italy",
-                "isAvailable": true,
-                "featured": false,
-                "inCart": false,
-                "amount": 0,
-                "total": 0,
-                "cost": 200000
-            },
-
-            "techParams": {
-                "engine": "4.0-liter Flat Six",
-                "horsepower": "520 hp",
-                "acceleration": "3.2",
-                "maxSpeed": "312 mph"
-            },
-
-            "images": [
-                "https://cdn.motor1.com/images/mgl/BERBe/s1/urus.jpg",
-                "https://cdn.motor1.com/images/mgl/0mqYp/s1/urus.jpg",
-                "https://cdn.motor1.com/images/mgl/WpWy6/s1/urus.jpg"
-            ]
-        }
-    ]
+   "records": [
+      {
+         "name": "John",
+         "city": "Berlin",
+         "cars": [
+            "audi",
+            "bmw"
+         ],
+         "job": "Teacher"
+      },
+      {
+         "name": "Mark",
+         "city": "Oslo",
+         "cars": [
+            "VW",
+            "Toyata"
+         ],
+         "job": "Doctor"
+      }
+   ]
 }
